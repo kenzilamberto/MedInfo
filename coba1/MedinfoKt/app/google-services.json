@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145140971072",
+    "firebase_url": "https://elated-coil-311603-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "elated-coil-311603",
+    "storage_bucket": "elated-coil-311603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145140971072:android:7c6fc36fe06a204bd491a5",
+        "android_client_info": {
+          "package_name": "com.projects.medinfokt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145140971072-oug7vr6mrspr1d94q3u2epgtpr3no1b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.medinfokt",
+            "certificate_hash": "829c0c60eadc26d603cafe1a8eb4eb5e3c796de0"
+          }
+        },
+        {
+          "client_id": "145140971072-7sn1m3mga3jdsiu7flhf1jrgoblii538.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3Qn5caFbTUae7OAhjJFtmvp-pBngeQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145140971072-7sn1m3mga3jdsiu7flhf1jrgoblii538.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
