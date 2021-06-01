@@ -34,3 +34,6 @@ Future plan:
 2. improving current implementation with more data
 3. making database of medicine and it's information
 4. integrating these stuffs
+
+Update:
+The apk always crashes after selecting an image or taking a picture, need to re-check 
