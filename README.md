@@ -5,12 +5,12 @@ Project ID: B21-CAP0127
 Project Name: MedInfo
 Project Themes: Healthcare
 Project Team Members:
-Andreas Genta Exna Poetra (A1281631) - Mobile Programming (Android) - Politeknik Negeri Jakarta
-Egi Puspita Sari (A2112061) - Mobile Programming (Android) - Universitas Indraprasta PGRI
-Violita Ananda Astria (C0050385) - Cloud Computing - Universitas Bina Nusantara
-Faza Nur Wafirudin (C1281626) - Cloud Computing - Politeknik Negeri Jakarta
-Kenzi Lamberto (M0010001) - Machine Learning - Institut Pertanian Bogor
-
+1. Andreas Genta Exna Poetra (A1281631) - Mobile Programming (Android) - Politeknik Negeri Jakarta
+2. Egi Puspita Sari (A2112061) - Mobile Programming (Android) - Universitas Indraprasta PGRI
+3. Violita Ananda Astria (C0050385) - Cloud Computing - Universitas Bina Nusantara
+4. Faza Nur Wafirudin (C1281626) - Cloud Computing - Politeknik Negeri Jakarta
+5. Kenzi Lamberto (M0010001) - Machine Learning - Institut Pertanian Bogor
+6. Fadlan Hamid Alfebi (M0131302) - Machine Learning - Universitas Terbuka
 
 There are 3 big steps in the planned project:
 1. detecting text (medicine name) and creating bounding box around it,
