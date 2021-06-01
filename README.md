@@ -28,3 +28,7 @@ Steps for research reproduction:
     Note that the visualization_utils.py has been modified a little from the normal one in Object Detection API
 4. app-debug.apk is the current apk for the first step of the project (text detection using tflite, based on codelab object detection)
 
+
+Future plan:
+1. making in-house OCR and other needed functions to make it run as planned
+2. integrating these stuffs
