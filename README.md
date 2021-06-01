@@ -25,5 +25,6 @@ Steps for research reproduction:
 1. use generate_tfrecord.py to make tfrecord from the created dataset (ICDAR 2015 Robust Text labeled using labelimg) 
 2. use training_tf2_Object_detection_model.ipynb to train the model (this notebook use the Object Detection API, this notebook also convert the model to tflite)
 3. use text_detection_1.ipynb to see current progress of the project to 2nd step (still need many improvement, and it's just a notebook, not a fully fledged app)
+    Note that the visualization_utils.py has been modified a little from the normal one in Object Detection API
 4. app-debug.apk is the current apk for the first step of the project (text detection using tflite, based on codelab object detection)
 
