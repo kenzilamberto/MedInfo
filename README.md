@@ -31,9 +31,10 @@ Steps for research reproduction:
 
 Future plan:
 1. making in-house OCR and other needed functions to make it run as planned
-2. improving current implementation with more data
-3. making database of medicine and it's information
-4. integrating these stuffs
+2. find or label manually data that suits our purpose better
+3. improving current implementation with more data
+4. making database of medicine and it's information
+5. integrating these stuffs
 
 Update:
 The apk always crashes after selecting an image or taking a picture, need to re-check 
