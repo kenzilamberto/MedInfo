@@ -27,7 +27,7 @@ Steps for research reproduction:
 3. use text_detection_1.ipynb to see current progress of the project to 2nd step (still need many improvement, and it's just a notebook, not a fully fledged app)
     Note that the visualization_utils.py has been modified a little from the normal one in Object Detection API
 4. app-debug.apk is the current apk for the first step of the project (text detection using tflite, based on codelab object detection)
-
+5. app-debug-firebase.apk is an alternative apk that uses firebase
 
 Future plan:
 1. making in-house OCR and other needed functions to make it run as planned
