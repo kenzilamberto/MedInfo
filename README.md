@@ -37,3 +37,4 @@ Future plan:
 
 Update:
 The apk always crashes after selecting an image or taking a picture, need to re-check 
+There is also an alternative APK that uses firebase, this one can take picture and OCR
